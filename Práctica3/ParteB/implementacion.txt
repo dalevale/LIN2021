@@ -1,0 +1,3 @@
+Parte B (blink_user.c)
+
+La implementacion consiste en nada mas arrancar el programa blink_user. Dentro del programa hay dos contadores, el primero es para indicar el numero de led que se quiere encender y el segundo es para que se vaya cambiando el color de los 3 colores (rojo, azul, verde). El caracter 'colorChar' es para especificar el numero hexadecimal que se quiere usar para indicar la intensidad del color. En fin, la implementancion consiste en encender los leds de 0 a 7, y cada recorrido cambia a otro color.
