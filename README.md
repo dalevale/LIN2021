@@ -1,2 +1,2 @@
 # LIN2021
-Linux related subject assignments (in spanish)
+Linux and Android Operating Systems subject assignments (in spanish)
